@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af48a083-5e32-4aae-8716-89d0378f42d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="af48a083-5e32-4aae-8716-89d0378f42d5" name="Default Changelist" comment="Run on Google cloud">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,8 +165,16 @@
       <option name="presentableId" value="Default" />
       <updated>1598256160959</updated>
       <workItem from="1598256162066" duration="2750000" />
-      <workItem from="1598258922748" duration="234000" />
+      <workItem from="1598258922748" duration="769000" />
     </task>
+    <task id="LOCAL-00001" summary="Run on Google cloud">
+      <created>1598259254571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598259254571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,5 +190,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Run on Google cloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="Run on Google cloud" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598259260387">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1007/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598259260387" />
   </component>
 </project>
