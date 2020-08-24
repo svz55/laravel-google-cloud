@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af48a083-5e32-4aae-8716-89d0378f42d5" name="Default Changelist" comment="Run on Google cloud">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598256160959</updated>
       <workItem from="1598256162066" duration="2750000" />
-      <workItem from="1598258922748" duration="769000" />
+      <workItem from="1598258922748" duration="1290000" />
     </task>
     <task id="LOCAL-00001" summary="Run on Google cloud">
       <created>1598259254571</created>
